@@ -16,6 +16,10 @@ A simple implementation of the X O game using Windows Forms in C#. The game allo
 - Visual Studio (version)
 - C# (version)
 
+## Screenshots
+
+![Game Interface](https://github.com/FatmaSorour8/XO-Game-Using-CSharp-Windows-Forms/assets/129652721/092d8592-7727-42d7-bc5c-beefb804a71f)
+
 ## Installation
 
 ### Prerequisites
